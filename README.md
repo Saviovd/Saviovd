@@ -1,4 +1,4 @@
-# Olá, me chamo [***Sávio Almeida***](https://www.linkedin.com/in/saviovd/) e sou desenvolvedor Front-End👋
+# Hello, my name is [***Sávio Almeida***](https://www.linkedin.com/in/saviovd/) and I am a Front-End developer👋
 
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" width="40px" heigth="40px"/> &ensp;    
@@ -12,12 +12,12 @@
 
 <br/>
 
-**Sou um desenvolvedor Front-End especializado em React com experiência em construir aplicações web modernas e escaláveis. Possuo fortes habilidades em HTML, CSS e JavaScript, atualmente avançando para TypeScript bem como experiência com bibliotecas e frameworks relacionados, como SASS e Webpack. Também tenho experiência em boas práticas de desenvolvimento de código. Estou sempre buscando aprender e aplicar novas tecnologias para melhorar a experiência do usuário e o desempenho das aplicações que desenvolvo.**
+**I am a Front-End developer specializing in React with experience in building modern and scalable web applications. I have strong skills in HTML, CSS, and JavaScript and am currently advancing to TypeScript as well as experience with related libraries and frameworks such as SASS and Webpack. I also have experience in good coding development practices. I am always seeking to learn and apply new technologies to improve the user experience and performance of the applications I develop.**
 
-## *Visite meu [site](https://savioalmeida-portifolio.vercel.app/)*
+## *Visit my [Website](https://savioalmeida-portifolio.vercel.app/)*
 <br/>
 
-## Meus contatos
+## My contacts
 
 <div>
   <a href="https://discord.com/channels/@saviovd#7182" target="_blank"><img src="https://img.shields.io/badge/-Discord-%235865F2?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>&ensp; 
