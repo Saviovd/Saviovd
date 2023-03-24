@@ -4,17 +4,22 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" width="40px" heigth="40px"/> &ensp;    
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" width="40px" heigth="40px"/>&ensp;  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="40px" heigth="40px"/>&ensp;  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40px" heigth="40px"/>&ensp;  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="40px" heigth="40px"/>&ensp;  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" width="40px" heigth="40px"/> &ensp;  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40px" heigth="40px"/>  &ensp;  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40px" heigth="40px"/>  &ensp;  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40px" heigth="40px"/>  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40px" heigth="40px" /> &ensp; 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" width="40px" heigth="40px" /> &ensp; 
 </div>
 
 <br/>
 
-**I am a Front-End developer specializing in React with experience in building modern and scalable web applications. I have strong skills in HTML, CSS, and JavaScript and am currently advancing to TypeScript as well as experience with related libraries and frameworks such as SASS and Webpack. I also have experience in good coding development practices. I am always seeking to learn and apply new technologies to improve the user experience and performance of the applications I develop.**
+**Desenvolvedor Full Stack com expertise em React e Node, com habilidade em construir aplicações web modernas e escaláveis. Experiência em desenvolvimento de soluções completas, desde a arquitetura até a implementação, com conhecimentos avançados em JavaScript, HTML e CSS. Experiente em frameworks como Express e MongoDB. Habilidade em trabalhar com APIs, integração de serviços e banco de dados. Capacidade de lidar com múltiplas tarefas simultaneamente, mantendo o foco na entrega de soluções de alta qualidade. Focado em criar soluções eficientes e de alta qualidade para atender às necessidades dos clientes. Orientado a resultados e com habilidade em trabalhar em equipe, com forte foco em testes automatizados e integração contínua.**
 
-## *Visit my [Website](https://savioalmeida-portifolio.vercel.app/)*
+**Full Stack Developer with expertise in React and Node, skilled in building modern and scalable web applications. Experienced in developing end-to-end solutions, from architecture to implementation, with advanced knowledge of JavaScript, HTML, and CSS. Experienced in frameworks such as Express, Redux, and MongoDB. Ability to work with APIs, service integration, and databases. Able to handle multiple tasks simultaneously while maintaining a focus on delivering high-quality solutions. Focused on creating efficient and high-quality solutions to meet client needs. Results-driven and skilled in teamwork, with a strong focus on automated testing and continuous integration.**
+
+## *Visit my [Website](https://saviovdportfolio.vercel.app/)*
 <br/>
 
 ## My contacts
