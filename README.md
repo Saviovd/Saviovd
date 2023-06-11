@@ -11,17 +11,18 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40px" heigth="40px"/>  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40px" heigth="40px" /> &ensp; 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" width="40px" heigth="40px" /> &ensp; 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original-wordmark.svg" width="40px" heigth="40px" /> &ensp; 
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="40px" heigth="40px" /> &ensp; 
 </div>
 
 ## Estou aprendendo
+</br>
 <div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40px" heigth="40px" />
 </div>
 
 <br/>
 ## Sobre Mim
+</br>
 **Sou um desenvolvedor fullstack com uma forte paixão pela tecnologia e por encontrar soluções elegantes para problemas complexos. Com um background sólido em desenvolvimento web, estou constantemente atualizando minhas habilidades e aprendendo novas tecnologias para oferecer as melhores soluções aos meus clientes e usuários.**
 
 
