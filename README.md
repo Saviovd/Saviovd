@@ -15,16 +15,13 @@
 </div>
 </br>
 
+**Sou um desenvolvedor fullstack com uma forte paixão pela tecnologia e por encontrar soluções elegantes para problemas complexos. Com um background sólido em desenvolvimento web, estou constantemente atualizando minhas habilidades e aprendendo novas tecnologias para oferecer as melhores soluções aos meus clientes e usuários.**
+<br/>
+
 ## Estou aprendendo
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40px" heigth="40px" />
 </div>
-
-<br/>
-## Sobre Mim
-</br>
-**Sou um desenvolvedor fullstack com uma forte paixão pela tecnologia e por encontrar soluções elegantes para problemas complexos. Com um background sólido em desenvolvimento web, estou constantemente atualizando minhas habilidades e aprendendo novas tecnologias para oferecer as melhores soluções aos meus clientes e usuários.**
-
 
 ## *Visite meu [Website](https://savioportfolio.vercel.app/)*
 <br/>
