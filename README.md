@@ -1,4 +1,4 @@
-# Hello, my name is [***Sávio Almeida***](https://www.linkedin.com/in/saviovd/) and I am a Full Stack developer👋
+# Olá, meu nome é [***Sávio Almeida***](https://www.linkedin.com/in/saviovd/)!👋
 
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" width="40px" heigth="40px"/> &ensp;    
@@ -11,13 +11,19 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40px" heigth="40px"/>  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40px" heigth="40px" /> &ensp; 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" width="40px" heigth="40px" /> &ensp; 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original-wordmark.svg" width="40px" heigth="40px" /> &ensp; 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="40px" heigth="40px" /> &ensp; 
+</div>
+
+## Estou aprendendo
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
 </div>
 
 <br/>
+## Sobre Mim
+**Sou um desenvolvedor fullstack com uma forte paixão pela tecnologia e por encontrar soluções elegantes para problemas complexos. Com um background sólido em desenvolvimento web, estou constantemente atualizando minhas habilidades e aprendendo novas tecnologias para oferecer as melhores soluções aos meus clientes e usuários.**
 
-**Desenvolvedor Full Stack com expertise em React e Node, com habilidade em construir aplicações web modernas e escaláveis. Experiência em desenvolvimento de soluções completas, desde a arquitetura até a implementação, com conhecimentos avançados em JavaScript, HTML e CSS. Experiente em frameworks como Express e MongoDB. Habilidade em trabalhar com APIs, integração de serviços e banco de dados. Capacidade de lidar com múltiplas tarefas simultaneamente, mantendo o foco na entrega de soluções de alta qualidade. Focado em criar soluções eficientes e de alta qualidade para atender às necessidades dos clientes. Orientado a resultados e com habilidade em trabalhar em equipe, com forte foco em testes automatizados e integração contínua.**
-
-**Full Stack Developer with expertise in React and Node, skilled in building modern and scalable web applications. Experienced in developing end-to-end solutions, from architecture to implementation, with advanced knowledge of JavaScript, HTML, and CSS. Experienced in frameworks such as Express, Redux, and MongoDB. Ability to work with APIs, service integration, and databases. Able to handle multiple tasks simultaneously while maintaining a focus on delivering high-quality solutions. Focused on creating efficient and high-quality solutions to meet client needs. Results-driven and skilled in teamwork, with a strong focus on automated testing and continuous integration.**
 
 ## *Visit my [Website](https://saviovdportfolio.vercel.app/)*
 <br/>
