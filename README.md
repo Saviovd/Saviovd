@@ -13,9 +13,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" width="40px" heigth="40px" /> &ensp; 
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="40px" heigth="40px" /> &ensp; 
 </div>
+</br>
 
 ## Estou aprendendo
-</br>
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40px" heigth="40px" />
 </div>
