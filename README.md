@@ -26,10 +26,10 @@
 **Sou um desenvolvedor fullstack com uma forte paixão pela tecnologia e por encontrar soluções elegantes para problemas complexos. Com um background sólido em desenvolvimento web, estou constantemente atualizando minhas habilidades e aprendendo novas tecnologias para oferecer as melhores soluções aos meus clientes e usuários.**
 
 
-## *Visit my [Website](https://saviovdportfolio.vercel.app/)*
+## *Visite meu [Website](https://savioportfolio.vercel.app/)*
 <br/>
 
-## My contacts
+## Meus Contatos
 
 <div>
   <a href="https://discord.com/channels/@saviovd#7182" target="_blank"><img src="https://img.shields.io/badge/-Discord-%235865F2?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>&ensp; 
