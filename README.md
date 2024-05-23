@@ -73,17 +73,19 @@ Uma aplicação otimizada para desempenho, utilizando boas práticas de código 
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="30" alt="jest logo"  />
 </div>
-
-![Logo](https://i.gifer.com/origin/09/09e12862ed8775094af02383debf8c50_w200.webp)
+<div align="center">
+  ![Logo](https://i.gifer.com/origin/09/09e12862ed8775094af02383debf8c50_w200.webp)
+</div>
 <br clear="both">
-
-<img src="https://raw.githubusercontent.com/saviovd/saviovd/output/snake.svg" alt="Snake animation" />
+<div align="center">
+  <img src="https://raw.githubusercontent.com/saviovd/saviovd/output/snake.svg" alt="Snake animation" />
+</div>
 
 ###
 
 <br clear="both">
 
-<div align="left">
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=saviovd&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
   <img src="https://github-readme-stats.vercel.app/api?username=saviovd&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
 </div>
@@ -100,12 +102,3 @@ Uma aplicação otimizada para desempenho, utilizando boas práticas de código 
 ---
 
 Obrigado por visitar meu GitHub! Vamos conectar e explorar como podemos colaborar em projetos emocionantes e inovadores. 🚀
-
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/saviovd/saviovd/output/snake.svg" alt="Snake animation" />
-
-###
