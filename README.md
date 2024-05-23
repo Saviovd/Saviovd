@@ -1,6 +1,7 @@
 <p align="center">
   <img src="https://savioalmeida.vercel.app/assets/logo.svg" alt="Logo" />
 </p>
+
 # 👋 Olá, sou Sávio Almeida!
 
 Bem-vindo ao meu GitHub! Sou um desenvolvedor apaixonado por criar interfaces web intuitivas e visualmente atraentes. Aqui você encontrará uma coleção de meus projetos, que demonstram meu compromisso com design responsivo, código limpo e foco na experiência do usuário.
@@ -11,16 +12,15 @@ Bem-vindo ao meu GitHub! Sou um desenvolvedor apaixonado por criar interfaces we
 - 🎨 **Entusiasta de UX/UI**: Acredito que a melhor interface é aquela que é fácil de usar e entender.
 - 💡 **Inovador**: Sempre buscando novas tecnologias e melhores práticas para aprimorar meus projetos.
 
-## 🌟 Projetos em Destaque
 
-### [📱 Projeto Responsivo](#)
-Uma aplicação web totalmente responsiva que se adapta a qualquer dispositivo, proporcionando uma experiência de usuário impecável.
+### [📱 Design responsivo e amigável](#)
+Crio interfaces que se adaptam a qualquer dispositivo, proporcionando uma experiência de usuário impecável.
 
-### [🎨 Interface Intuitiva](#)
-Um projeto que destaca a criação de uma interface amigável e fácil de usar, colocando o usuário no centro do processo de desenvolvimento.
+### [⚡ Código limpo e eficiente](#)
+Me preocupo com a qualidade do código, utilizando boas práticas e técnicas de otimização para garantir o melhor desempenho.
 
-### [⚡ Aplicação de Alto Desempenho](#)
-Uma aplicação otimizada para desempenho, utilizando boas práticas de código e técnicas avançadas de otimização.
+### [🌟 Foco no usuário](#)
+Acredito que a melhor interface é aquela que é fácil de usar e entender, sempre colocando o usuário no centro do processo de desenvolvimento.
 
 ## 🛠️ Tecnologias e Ferramentas
 
@@ -73,9 +73,11 @@ Uma aplicação otimizada para desempenho, utilizando boas práticas de código 
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="30" alt="jest logo"  />
 </div>
-<div align="center">
-  ![Logo](https://i.gifer.com/origin/09/09e12862ed8775094af02383debf8c50_w200.webp)
-</div>
+
+<p align="center">
+  <img src="https://i.gifer.com/origin/09/09e12862ed8775094af02383debf8c50_w200.webp" alt="monkey in pc" />
+</p>
+
 <br clear="both">
 <div align="center">
   <img src="https://raw.githubusercontent.com/saviovd/saviovd/output/snake.svg" alt="Snake animation" />
