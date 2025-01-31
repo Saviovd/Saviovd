@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.licdn.com/dms/image/v2/D4D16AQHYkgkNQqbrsQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1732300520919?e=1737590400&v=beta&t=O4LGUWbUnanvuw6Yj6TlQqWxUH0N_8UNh-As-W6UKs8" alt="Logo" style="border-radius: 15px; width: 100%; height: 180px; object-fit: cover;"/>
+  <img src="https://savioalmeida.com.br/assets/logo.svg" alt="Logo" style="border-radius: 15px; width: 100%; height: 180px; object-fit: cover;"/>
 </p>
 
 # 👋 Olá, sou <span style="color: #18ff85">Sávio Almeida</span>!
